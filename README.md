@@ -208,7 +208,7 @@ The terminal also prints a per-run summary, the single-run distribution, the ens
 
 If you use CycleAlign in your research, please cite:
 
-> Zhou, S., Liu, C., Wang, Q., Zang, M., & Liu, T. CycleAlign: a cycle-phase-aligned neural ensemble enables robust unsupervised inference of cell-cycle pseudotime from single-cell transcriptomes. *Nature Communications* (in submission).
+> Zhou, S., Wang, Q., Zang, M., Liu, C. & Liu, T. CycleAlign: a cycle-phase-aligned neural ensemble enables robust unsupervised inference of cell-cycle pseudotime from single-cell transcriptomes. *Nature Communications* (in submission).
 
 ---
 
